@@ -1,2 +1,2 @@
 - 👋 Hi, Владислав
--   Laravel Developer
+-   backend Developer
