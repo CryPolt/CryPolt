@@ -1,2 +1,2 @@
 - 👋 Hi, Владислав
--   backend Developer
+-   Web Developer
